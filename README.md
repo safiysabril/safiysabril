@@ -20,7 +20,6 @@ You can check out more on my GitHub!
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=safiysabril&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=safiysabril&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=safiysabril&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
