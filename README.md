@@ -2,15 +2,17 @@
 
 Welcome to my GitHub profile!
 
-✨ **About Me**  
+✨ **About Me** 
+<p align="justify">
 I'm passionate about building solutions that bridge language, education, and technology. I am a continuous learner, always exploring new tools, frameworks, and ideas to improve my craft and impact.
-
+</p>
 ---
 
 ### 🚀 Current Focus
+<p align="justify">
 Recently, I have been dedicating time to **Corpolingo** - a project that helps users master corporate language and enhance their professional communication skills.  
 You can check out more on my GitHub!
-
+</p>
 ---
 
 ### 📫 Get in touch
