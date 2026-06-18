@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Safiy Sabri
+## Hi there 👋 I'm Safiy Sabril
 
 Welcome to my GitHub profile!
 
