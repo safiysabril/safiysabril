@@ -10,7 +10,7 @@ I'm passionate about building solutions that bridge language, education, and tec
 
 ### 🚀 Current Focus
 <p align="justify">
-Recently, I have been dedicating time to **Corpolingo** - a project that helps users master corporate language and enhance their professional communication skills.  
+Recently, I have been dedicating time to <strong>Corpolingo</strong> - a project that helps users master corporate language and enhance their professional communication skills.  
 You can check out more on my GitHub!
 </p>
 ---
